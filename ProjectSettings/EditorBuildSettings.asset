@@ -5,9 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SaveTheOcean.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/SaveTheOcean_Josi.unity
+    guid: c367d7e46536e6a48a91a2439736989d
+  - enabled: 0
+    path: Assets/Scenes/SaveTheOcean_Marbel.unity
+    guid: 9f40273256e623a49aa952f0c6405846
+  - enabled: 0
+    path: Assets/Scenes/SaveTheOcean_Matthias.unity
+    guid: 278b06339059edb4cbd9580a22a76b52
+  - enabled: 1
+    path: Assets/Scenes/SaveTheOcean_Michael.unity
+    guid: be1c056cf24928c419dd2f3bb6b52752
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fb3fdc6d28183084fbba543871f252b2, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9791753f131633a40b083238f8610574, type: 2}
